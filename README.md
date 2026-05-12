@@ -1,5 +1,19 @@
 # Polish Road Sign Recognition
 
+## Environment setup
+
+Install the notebook dependencies in the same Python environment used by the Jupyter kernel:
+
+```powershell
+python -m pip install -r requirements.txt
+```
+
+From inside `notebooks/Sign-Recognition.ipynb`, you can also run:
+
+```python
+%pip install -r ../requirements.txt
+```
+
 Projekt dotyczy rozpoznawania polskich znaków drogowych na zdjęciach z wykorzystaniem modeli YOLO11.
 
 ## Cel projektu
