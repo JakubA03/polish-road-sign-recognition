@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "D:\\Python\\python.exe",
+  "jupyter.notebookFileRoot": "${fileDirname}"
+}
